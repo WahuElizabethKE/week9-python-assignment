@@ -1,0 +1,101 @@
+number,name,age,department,salary,join_date,country
+1,Marsha Stannett,32,Finance,126607.36,3/23/2023,Georgia
+2,Quincy Borrill,36,Finance,58841.44,3/24/2023,France
+3,Sherie Brophy,30,Finance,147808.86,1/13/2025,Philippines
+4,Lyndsie Bode,55,Finance,179973.08,12/10/2022,Czech Republic
+5,Jesselyn Ferrara,44,Finance,80813.15,2/20/2024,Indonesia
+6,Fanny Greaser,33,Finance,98322.16,9/13/2024,Cuba
+7,Eustace Schule,24,Finance,138985.75,6/19/2022,United Kingdom
+8,Kahlil Samsworth,59,Finance,111547.27,1/22/2024,Slovenia
+9,Bondy Hookes,36,Finance,78374.76,2/2/2022,Indonesia
+10,Boycey Sanday,25,Finance,167048.49,9/12/2024,Argentina
+11,Carey Trulock,32,Finance,170006.54,5/12/2024,Saint Kitts and Nevis
+12,Hyman Barthorpe,50,Finance,51325.32,11/11/2022,Finland
+13,Lanita Darleston,57,Finance,85883.58,3/21/2022,Ukraine
+14,Karine Reame,53,Finance,53609.33,4/7/2022,Bosnia and Herzegovina
+15,Darnall Aleavy,37,Finance,75395.26,3/23/2025,Czech Republic
+16,Brand Rasper,33,Finance,46893.8,2/7/2025,China
+17,Gena Pedlow,39,Finance,56466.5,5/9/2023,Russia
+18,Elvera Sauniere,56,Finance,156846.94,7/15/2022,Ukraine
+19,Jillane Holston,35,Finance,118845.8,4/27/2024,Czech Republic
+20,Daniele Crommett,27,Finance,157440.59,12/7/2022,China
+21,Raff Massimi,55,Finance,153271.84,12/3/2022,Democratic Republic of the Congo
+22,Westbrooke Rampley,53,Finance,42755.23,4/12/2025,Syria
+23,Hesther Simenet,52,Finance,116672.39,12/28/2023,Brazil
+24,Kin Spall,35,Finance,136153.77,1/1/2025,Russia
+25,Octavius Antonopoulos,32,Finance,174457.24,2/28/2025,Indonesia
+26,Willetta Arminger,24,Finance,99570.62,3/28/2025,China
+27,Luis Goreway,56,Finance,129858.4,4/30/2025,Trinidad and Tobago
+28,Darryl Haet,25,Finance,158037.68,4/15/2022,China
+29,Gay Mccaull,31,Finance,103217.04,12/6/2023,China
+30,Valina Fort,32,Finance,165436.85,6/17/2023,Indonesia
+31,Zacherie Fellow,24,Finance,115134.26,8/8/2024,Philippines
+32,Garald Gorghetto,50,Finance,134755.55,4/27/2023,China
+33,Etan Gaudin,36,Finance,107637.82,3/28/2023,Greece
+34,Dorey Purple,59,Finance,96727.23,4/18/2025,Philippines
+35,Viole Harcase,52,Finance,150490.51,4/21/2025,China
+36,Bron Eadie,45,Finance,89157.39,3/19/2022,France
+37,Jeno Poulter,23,Finance,37220.41,6/11/2024,Czech Republic
+38,Marv Oppy,58,Finance,137676.89,9/24/2024,Indonesia
+39,Nico Joseff,28,Finance,84800.56,3/13/2025,Norway
+40,Joel Sparshatt,49,Finance,40638.8,12/8/2022,Poland
+41,Karylin Placido,31,Finance,164236.79,9/10/2022,Netherlands
+42,Ronnie Nertney,31,Finance,172261.34,1/6/2022,Honduras
+43,Yettie Kealey,43,Finance,134222.38,6/24/2024,Indonesia
+44,Chalmers Carwithim,54,Finance,90870.7,3/29/2024,Venezuela
+45,Eleanora Clist,51,Finance,137133.24,7/9/2022,United States
+46,Trixie Adanez,44,Finance,152513.25,10/17/2023,Indonesia
+47,Gilburt Montacute,31,Finance,113264.18,6/18/2024,South Korea
+48,Papagena Darwin,60,Finance,155456.6,5/21/2024,Indonesia
+49,Fan Benn,36,Finance,171276.28,3/15/2022,Madagascar
+50,Traci Estabrook,35,Finance,165885.53,10/16/2023,France
+51,Rea Schwandermann,37,Finance,65929.39,2/10/2024,Haiti
+52,Maryrose Burtwistle,28,Finance,35697.46,7/31/2024,Azerbaijan
+53,Andras Arnull,41,Finance,127269.83,5/27/2024,Poland
+54,Nicko Groombridge,36,Finance,87529.81,4/23/2023,Cameroon
+55,Andi Flewett,43,Finance,85056.44,11/19/2023,Czech Republic
+56,Elwira Fenne,36,Finance,152658.2,3/31/2025,Indonesia
+57,Calvin Simonds,54,Finance,44868.65,5/27/2024,Brazil
+58,Bernette Janson,56,Finance,57045.51,1/18/2025,Brazil
+59,Bobine Zemler,47,Finance,109708.81,2/6/2025,Sweden
+60,Knox Kintzel,42,Finance,160510.67,11/19/2022,Indonesia
+61,Joachim Weatherhead,49,Finance,73379.0,11/26/2024,China
+62,Junette Grent,22,Finance,130125.45,12/16/2023,Argentina
+63,Carmella Camm,28,Finance,80779.82,7/12/2023,Mexico
+64,Karola Fuidge,54,Finance,58590.28,10/6/2022,Ukraine
+65,Merry Pallin,42,Finance,47835.22,8/28/2024,Syria
+66,Maegan Fenimore,38,Finance,82080.08,1/24/2025,Ukraine
+67,Maighdiln Calverley,43,Finance,53681.12,4/6/2022,Vietnam
+68,Bonny Duigan,23,Finance,170074.22,8/12/2024,France
+69,Timmie Steger,49,Finance,159293.04,10/11/2022,Ghana
+70,Paulo Cramond,35,Finance,95587.38,2/15/2025,Indonesia
+71,Alejandro Valente,52,Finance,92112.86,3/18/2022,China
+72,Agata Hasley,48,Finance,165115.97,3/14/2023,Peru
+73,Kane Spawforth,27,Finance,45277.75,9/19/2024,China
+74,Rogers Daffern,59,Finance,89547.51,1/1/2022,Russia
+75,Malorie Radcliffe,31,Finance,109779.18,10/15/2022,China
+76,Genevra Stener,25,Finance,91075.89,2/12/2024,China
+77,Lennie Keppin,39,Finance,30622.37,3/21/2023,Ivory Coast
+78,Erek Senechault,45,Finance,155805.48,11/2/2022,Czech Republic
+79,Cassaundra Ashlee,45,Finance,78646.75,6/30/2022,Ukraine
+80,Lorelei Filan,55,Finance,144040.61,9/22/2022,Poland
+81,Xena Dahlgren,57,Finance,39819.96,3/13/2024,Poland
+82,Randolph Crocumbe,48,Finance,120715.77,9/23/2024,Oman
+83,Aloysius Weatherhill,43,Finance,96224.6,3/22/2025,China
+84,Aubine Auty,49,Finance,142460.13,7/8/2022,France
+85,Devlin Richt,36,Finance,116423.1,7/1/2024,Macedonia
+86,Tiena Edmenson,31,Finance,95114.07,1/28/2025,China
+87,Kathryn Daniaud,30,Finance,158383.57,1/15/2023,Portugal
+88,Dareen Lithcow,45,Finance,80606.27,7/15/2023,Guatemala
+89,Jillian Davidov,42,Finance,168899.99,4/14/2025,France
+90,Bradly Dufer,40,Finance,132981.05,10/21/2024,China
+91,Whitney Romney,32,Finance,179149.24,1/13/2024,Cameroon
+92,Sasha Sichardt,41,Finance,45939.31,4/20/2025,Brazil
+93,Ches Cowndley,37,Finance,94642.12,7/3/2023,Panama
+94,Melva Shackleford,26,Finance,62895.23,5/28/2024,Greece
+95,Robinette Riseborough,30,Finance,142417.77,11/6/2024,Russia
+96,Kirstyn Pitblado,51,Finance,65855.03,2/3/2022,Russia
+97,Genni Ellerman,50,Finance,116874.54,9/16/2024,Portugal
+98,Rachelle Lavrinov,33,Finance,46669.05,5/4/2022,China
+99,Kira Brunicke,37,Finance,63084.16,9/17/2024,China
+100,Junina Dory,54,Finance,59530.65,5/24/2023,China
